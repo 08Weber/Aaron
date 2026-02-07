@@ -9,10 +9,10 @@ function saveAndNavigate() {
   localStorage.setItem("personnummer", _0x1bf883);
   window.location.href = "index.html";
 }
-var fornamn = ('Axel');
-var efternamn = ('Svefeldt');
-var age = ('18');
-var personnummer = ('080113-1337');
+var fornamn = ('Aaron');
+var efternamn = ('Lindblom');
+var age = ('19');
+var personnummer = ('060928-6751');
 document.getElementById("updateEfternamn").textContent = efternamn;
 document.getElementById("updateFornamn").textContent = fornamn;
 document.getElementById("updateAge").textContent = age;
